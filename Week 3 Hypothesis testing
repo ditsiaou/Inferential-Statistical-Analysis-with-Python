@@ -1,0 +1,31 @@
+1. Introduction
+
+Recall that we discussed two different types of hypothesis tests for means earlier in the lectures.
+In the single mean hypothesis test lecture, we tested the hypothesis that a sample mean was greater than the null hypothesis mean. 
+In the difference in means for two independent samples lecture, we tested the hypothesis that the difference between
+two sample means was not equal to the null hypothesis difference.
+In this quiz, you will perform two similar hypothesis tests. Assume normality of the sampling distribution and equal variances.
+In the first test, the null hypothesis is that the average night bedtime for toddlers who nap is equal to the average bedtime for toddlers who don’t nap, 
+and the alternative hypothesis is that the average bedtime for toddlers who nap is later than the average bedtime for toddlers who don’t nap.
+In the second test, the null hypothesis is that the average 24 hour sleep duration for napping toddlers is equal to the average 24 hour sleep duration for toddlers who don’t nap, and the alternative hypothesis is that the average 24 hour sleep duration for napping toddlers is different from the average for toddlers who don’t nap.
+
+0.714
+
+
+2. Given our sample size of 𝑛, how many degrees of freedom (𝑑𝑓) are there for the associated 𝑡 distribution? (again, assume that the two sample variances are equal)
+
+18
+
+(n=20 -2 (cases)=18)
+
+3. What is the 𝑡-test statistic for the first hypothesis test? (rounded to two decimal places)
+
+2.41
+
+4. What is the p-value for the first hypothesis test? (rounded to four decimal places)
+
+0.0134
+
+5. For the second hypothesis test, do you reject or fail to reject the null hypothesis, given α = 0.05?
+
+Fail to reject
