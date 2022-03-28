@@ -1,0 +1,41 @@
+PROMPT
+Enter the text from your memorandum into the text box provided. If desired, you can use text formatting to increase the readability of your memorandum.
+
+Question
+ Does the consumption of white and dark chocolate improve the performance of the cyclists? 
+
+
+Body of answers
+An experiment took place where the crossover design is used ans the participants “n = 9 male participants was measured in two trials”. 
+To be more specific, each participant ate a random kind of chocolate -either dark chocolate (40 grams of Dove) or white chocolate (40 grams of Milkybar)- 
+in order to conduct conclusions and assumptions.
+Noticably, the crossover design are <<that each subject acts as his or her own control, and that a smaller number of patients are required in comparison 
+to parallel-group studies>>. For example, in this experiment fewer than 30 participants are required.
+In this study, the mean distance covered is 1367 m no chocolate, 1419 m white chocolate and 1606 m with dark chocolate. 
+So, it seems that consumption of chocolate is effective , when dark chocolate is more effective than white. But, we can not be sure yet, 
+there are other parameters which have to be checked.
+Also, standard deviation is 171 m for no chocolate case, 248 m for white chocolate and 158 m for dark chocolate. 
+Dark chocolate has the higher mean and the lowest standard deviation, something not ignorable.
+In addition, the p-value in the most of cases in lower than 0.05 . 
+
+Dark chocolate : 0.001 p-value
+Dark versus White Chocolate: 0.003 p-value
+p-value (compared to baseline): Dark chocolate 0.001
+p-value (compared to baseline): White chocolate 0.319 >0.05
+
+  
+
+The last p-value is significantly higher than 0.05 so we can’t be sure that white chocolate is really effective. 
+Supportingly to this view, the mean of white chocolate is slightly higher compared to baseline but the standard deviation is 50 % higher than std of baseline.
+But all the other cases seem to be true, as the p-value is very low , thus the other results are reliable despite the small number of participants.
+
+Note: All the p-values have been derived from 95 % confidence intervals
+  
+
+Conclusions
+Finally, the dark chocolate surely help the cyclists to make their performance . 
+White chocolate possibly – not sure-  helps the cyclists , but in no case in the grade dark chocolate does.
+
+Citations
+
+https://www.sciencedirect.com/topics/neuroscience/crossover-study#:~:text=The%20advantages%20of%20the%20cross,duration%20than%20parallel%2Dgroup%20studies.
